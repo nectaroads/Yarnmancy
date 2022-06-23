@@ -1,8 +1,8 @@
-(images/splash.png)
+(Images/Splash.png)
 
 # About
-Yarnmancy WILL BE a Real-Time Strategy game. Gather sewing resources to build an armor, troops and structures.
-The idea was born in 2019, where inside a goofy childish atmosphere, a kid builds an entire army on his book.
+Yarnmancy **WILL BE** a RTS game. Gather sewing resources to build an armor, troops and structures.
+The idea was born in 2019, where right inside a goofy childish atmosphere, a kid builds an entire army on his book.
 Mostly is a project to encourage me to learn English, Git and Programming, i need experience to work and the development is quite fun too.
 
 ## Features
@@ -15,7 +15,7 @@ Mostly is a project to encourage me to learn English, Git and Programming, i nee
 - Unity
 
 ## Credits
-- Nectaroads: (100% Unbiased opinion tbh)
+- Nectaroads: (101% Unbiased opinion tbh)
 - HelperFirst: (I'll find someone to put here)
 - HelperSecond: (Here too)
 
